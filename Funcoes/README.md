@@ -27,8 +27,18 @@
 
 ## Exemplos de funções
 
-    - Em construção
+  - Funções com Parâmetros: São funções que sempre executaram a mesma ação mas com parâmetros direfentes. Exemplo: Geração de um string de conexão com banco de dados.
 
+    |Funções|Descrição|Arquivo|
+    |-------|---------|-------|
+    |Exemplo 1| Neste exemplo foi criada uma função com utilização de dois parâmetros "pao" e "nome", que serão utilizados como parametros de entrada.| [Arquivo]()|
+    |Exemplo 2| Neste exemplo foi criada uma função com utilização de três parâmetros "pao", "valor" e "nome", que serão utilizados como parametros de entrada, mas o valor do não foi informado sendo substituido por um valor padrão.|[Arquivo]()|
+    |Exemplo 3| Neste exemplo foi criada uma função com utilização de três parâmetros "pao", "nome"  e "valor". Entretanto o parâmetro "nome" de entrada foi informado como "undefined", como método de bular a geração do erro, e sendo substituido por um valor padrão isnerido na função.|[Arquivo]()|
+
+  - Funções com retorno: 
+
+      -Em construção
+  
 
 
 
