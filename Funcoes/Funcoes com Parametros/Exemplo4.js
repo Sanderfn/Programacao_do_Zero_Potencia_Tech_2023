@@ -1,4 +1,4 @@
-// Exemplo de conxão com banco de dados
+// Exemplo de conexão com banco de dados
 
 createStringConnection("db_products","Artanis", "456789")
 
