@@ -31,9 +31,10 @@
 
     |Funções|Descrição|Arquivo|
     |-------|---------|-------|
-    |Exemplo 1| Neste exemplo foi criada uma função com utilização de dois parâmetros "pao" e "nome", que serão utilizados como parametros de entrada.| [Arquivo]()|
-    |Exemplo 2| Neste exemplo foi criada uma função com utilização de três parâmetros "pao", "valor" e "nome", que serão utilizados como parametros de entrada, mas o valor do não foi informado sendo substituido por um valor padrão.|[Arquivo]()|
-    |Exemplo 3| Neste exemplo foi criada uma função com utilização de três parâmetros "pao", "nome"  e "valor". Entretanto o parâmetro "nome" de entrada foi informado como "undefined", como método de bular a geração do erro, e sendo substituido por um valor padrão isnerido na função.|[Arquivo]()|
+    |Exemplo 1| Neste exemplo foi criada uma função com utilização de dois parâmetros "pao" e "nome", que serão utilizados como parametros de entrada.| [Arquivo](https://github.com/Sanderfn/Programacao_do_Zero_Potencia_Tech_2023/blob/main/Funcoes/Funcoes%20com%20Parametros/Exemplo1.js)|
+    |Exemplo 2| Neste exemplo foi criada uma função com utilização de três parâmetros "pao", "valor" e "nome", que serão utilizados como parametros de entrada, mas o valor do não foi informado sendo substituido por um valor padrão.|[Arquivo](https://github.com/Sanderfn/Programacao_do_Zero_Potencia_Tech_2023/blob/main/Funcoes/Funcoes%20com%20Parametros/Exemplo2.js)|
+    |Exemplo 3| Neste exemplo foi criada uma função com utilização de três parâmetros "pao", "nome"  e "valor". Entretanto o parâmetro "nome" de entrada foi informado como "undefined", como método de bular a geração do erro, e sendo substituido por um valor padrão isnerido na função.|[Arquivo](https://github.com/Sanderfn/Programacao_do_Zero_Potencia_Tech_2023/blob/main/Funcoes/Funcoes%20com%20Parametros/Exemplo3.js)|
+    |Exemplo 4| Neste exemplo foi criada uma função que simula a conexão com um banco de dados onde os parâmetro são passados via String|[Arquivo](https://github.com/Sanderfn/Programacao_do_Zero_Potencia_Tech_2023/blob/main/Funcoes/Funcoes%20com%20Parametros/Exemplo4.js)| 
 
   - Funções com retorno: 
 
